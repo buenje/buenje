@@ -19,8 +19,8 @@ Core question driving the work:
 ## Active repositories
 | Repo | Focus |
 |------|-------|
-| plan-approval-logic | State machines for multi-stage approval flows |
-| blockchain-engineering-lab | Solidity experiments, Foundry test setups |
+| [plan-approval-logic](https://github.com/buenje/plan-approval-logic) | State machines for multi-stage approval flows |
+| [blockchain-engineering-lab](https://github.com/buenje/blockchain-engineering-lab) | Solidity experiments, Foundry test setups |
 ## Who I'm looking to connect with
 - Developers working on legal tech, RegTech,
   or document integrity
