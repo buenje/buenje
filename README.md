@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**buenje/buenje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Klaus Walter · bunje
+Dipl.-Ing., 20+ years in transport infrastructure —
+permitting procedures, project management,
+administrative workflows in the public sector.
+Since 2025: learning to build what I previously
+only specified. Working with Solidity, Foundry,
+and smart contract architecture.
+## What I'm building
+**claimwork-site** — a cryptographic proof layer for
+legally traceable document amendments.
+Target context: regulated approval procedures
+under eIDAS and MiCA.
+Core question driving the work:
+> How can regulated procedural workflows be
+> technically modeled to support traceability
+> and process discipline — without replacing
+> the substantive deliberation that belongs
+> to humans?
+## Active repositories
+| Repo | Focus |
+|------|-------|
+| plan-approval-logic | State machines for multi-stage approval flows |
+| blockchain-engineering-lab | Solidity experiments, Foundry test setups |
+## Who I'm looking to connect with
+- Developers working on legal tech, RegTech,
+  or document integrity
+- Engineers bridging domain expertise and
+  smart contract design
+- Anyone interested in how public-sector
+  process logic translates to on-chain models
+## Stack
+Solidity · Foundry · Sepolia Testnet
+📍 Frankfurt am Main, Germany
+---
+*Content here represents personal research
+and learning projects. Does not reflect
+official positions of my employer.*
